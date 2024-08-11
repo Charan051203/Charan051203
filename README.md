@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHARAN RK</h1>
-<h3 align="center">Hello, I'm Charan, an aspiring engineer with a solid foundation in Artificial Intelligence and Data Science. My academic journey has equipped me with expertise in full stack web development, game development, data science, deep learning, prompt engineering, and generative AI. I'm proficient in Python, C, and C#, and I've brought my theoretical knowledge to life through various hands-on projects.</h3>
+<h3 align="center">I love to code :).</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
