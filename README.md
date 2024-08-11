@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHARAN RK</h1>
-<h3 align="center">I love to code :).</h3>
+<h3 align="center"> Gen AI | Game Dev | MERN Stack Dev | Data Scientist | Prompt Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
