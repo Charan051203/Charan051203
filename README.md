@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Games, AI, Tech**
 
-- 📫 Reach me **charanrk2003@gmail.com**
+- 📫 Reach me at **charanrk2003@gmail.com**
 
 - 📄 My [Resume](https://drive.google.com/file/d/18UE2ydBKILjB87a4X_zU-fivaMisukCh/view?usp=sharing)
 
