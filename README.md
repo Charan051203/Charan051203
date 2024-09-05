@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **charanrk2003@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1JamAM3Ha9A2Bd3Xi4JM0llQH9pCeGG9l/view?usp=drive_link)
+- 📄 My [Resume](https://drive.google.com/file/d/1JamAM3Ha9A2Bd3Xi4JM0llQH9pCeGG9l/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
