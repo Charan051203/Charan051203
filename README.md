@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Charan051203.Charan051203" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone👋+I'm+CHARAN..;Nice+To+Meet+You+....;Bonjour+👋+I'm+CHARAN..;Hola+a+todos+👋+I'm+CHARAN..;Nice+To+Meet+You+....;&center=true" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=000000&font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone👋+I'm+CHARAN..;Nice+To+Meet+You+....;Bonjour+👋+I'm+CHARAN..;Hola+a+todos+👋+I'm+CHARAN..;Nice+To+Meet+You+....;&center=true" />
 </h1>
 
 <h3 align="center"> Gen AI | Game Development | MERN Stack Development | Data Science | Prompt Engineering</h3>
@@ -23,7 +23,8 @@
 
 📄 My [Resume](https://drive.google.com/file/d/1JamAM3Ha9A2Bd3Xi4JM0llQH9pCeGG9l/view?usp=sharing)
 
- </div>
+</br>
+</div>
 
  <div align="center"> 
   <a href="mailto:charanrk2003@gmail.com">
