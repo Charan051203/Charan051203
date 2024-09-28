@@ -4,30 +4,45 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=000000&width=380&height=28&lines=Hello+Everyone+👋+I'm+CHARAN..;Nice+To+Meet+You+....;Bonjour+👋+I'm+CHARAN..;Hola+a+todos+👋+I'm+CHARAN..;Nice+To+Meet+You+....;&center=true"></a></h1>
   
 <h3 align="center"> Gen AI | Game Development | MERN Stack Development | Data Science | Prompt Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
-- 🌱 I’m currently learning **MERN Stack, Game Development**
-
-- 💬 Ask me about **Games, AI, Tech**
-
-- 📫 Reach me at **charanrk2003@gmail.com**
-
-- 📄 My [Resume](https://drive.google.com/file/d/1JamAM3Ha9A2Bd3Xi4JM0llQH9pCeGG9l/view?usp=sharing)
-
-</br></br></br>
-<div align="left">
-<h2>Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/charan051203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charan051203" height="30" width="40" /></a>
-<a href="https://instagram.com/chrn_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chrn_._" height="30" width="40" /></a>
-</p>
+<div align='center'>
+<img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
 </br>
-<div align="left">
+
+<div align="center">
+ 
+🔭 I’m currently working on **LLM's**
+ 
+🌱 I’m currently learning **MERN Stack, Game Development**
+
+💬 Ask me about **Games, AI, Tech** [here](charanrk2003@gmail.com)
+
+⚡ Fun fact **Mario Was Originally a Carpenter, Not a Plumber**
+
+📄 My [Resume](https://drive.google.com/file/d/1JamAM3Ha9A2Bd3Xi4JM0llQH9pCeGG9l/view?usp=sharing)
+
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:charanrk2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/charan051203" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/chrn_._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>  
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+</br>
+<div align="center">
     <h2>Languages and Tools:</h2>
-    <p align="left"> 
+    <p align="center"> 
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -52,10 +67,10 @@
     </p>
 </div>
 </br>
-<div align="left">
+<div align="center">
   <h2>🐍My Contributions🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Charan051203/Charan051203/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
