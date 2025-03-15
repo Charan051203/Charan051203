@@ -25,7 +25,7 @@
  
 🌱 I’m currently learning **MERN Stack, Game Development**
 
-💬 Ask me about **Games, AI, Tech** [here](charanrk2003@gmail.com)
+💬 Ask me about **Games, AI, Tech** [here](mail@charanrk2003@gmail.com)
 
 ⚡ Fun fact **Mario Was Originally a Carpenter, Not a Plumber**
 
