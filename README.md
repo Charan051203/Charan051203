@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone👋+I'm+CHARAN..;Nice+To+Meet+You+....;Bonjour+👋+I'm+CHARAN..;Nice+To+Meet+You+....;Hola+a+todos+👋+I'm+CHARAN..;Nice+To+Meet+You+....;&center=true" />
 </h1>
 
-<h3 align="center"> Gen AI | Game Development | MERN Stack Development | Data Science | Prompt Engineering</h3>
+<h3 align="center"> Gen AI | Game Development | Data Science | Prompt Engineering | Gaming</h3>
 
 <div align='center'>
 <img alt="Coding" width="400" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
@@ -29,7 +29,7 @@
 
 ⚡ Fun fact **Mario Was Originally a Carpenter, Not a Plumber**
 
-📄 My [Resume](https://drive.google.com/file/d/1JamAM3Ha9A2Bd3Xi4JM0llQH9pCeGG9l/view?usp=sharing)
+📄 My [Resume](https://drive.google.com/file/d/14YgLH4eUYWNow_RdPjCAo1o4INJhpJpG/view?usp=sharing)
 
 </br>
 </div>
