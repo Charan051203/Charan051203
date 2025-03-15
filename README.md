@@ -6,10 +6,18 @@
 <h3 align="center"> Gen AI | Game Development | MERN Stack Development | Data Science | Prompt Engineering</h3>
 
 <div align='center'>
-<img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img alt="Coding" width="400" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
 </div>
 
 </br>
+
+<details align="center">
+<p><strong> <summary>  Listen to this:)  </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+
+</details>
+
 
 <div align="center">
  
@@ -45,16 +53,17 @@
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,blender,vscode,git,unity" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express,react,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=c,python,mysql,javascript,tensorflow,scikitlearn" /><br>
+    <img src="https://skillicons.dev/icons?i=github,blender,vscode,git,unity,unreal" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,python,mysql,javascript,tensorflow,scikitlearn,pytorch" /><br>
 </div>
 </br>
 <div align="center">
   <h2>🐍My Contributions🐍</h2>
-  <br>  
+  <br>
+<img alt="Snake" src="https://github.com/Charan051203/Charan051203/blob/output/github-snake-dark.svg">
 </div>
-![snake gif](https://github.com/Charan051203/Charan051203/blob/output/github-snake-dark.svg)
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
