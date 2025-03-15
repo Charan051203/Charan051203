@@ -1,3 +1,5 @@
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Charan051203.Charan051203" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone👋+I'm+CHARAN..;Nice+To+Meet+You+....;Bonjour+👋+I'm+CHARAN..;Nice+To+Meet+You+....;Hola+a+todos+👋+I'm+CHARAN..;Nice+To+Meet+You+....;&center=true" />
@@ -73,8 +75,11 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=charan051203&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=charan051203&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br/><br/><br/>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" align="center">
 </div>
-
+<div>
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="190" height="200" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180" height="200"/>
+</div>
 <hr/>
 
