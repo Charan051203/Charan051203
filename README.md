@@ -52,9 +52,9 @@
 </br>
 <div align="center">
   <h2>🐍My Contributions🐍</h2>
-  <br>
-  ![snake gif](https://github.com/Charan051203/Charan051203/blob/output/github-snake-dark.svg)  
+  <br>  
 </div>
+![snake gif](https://github.com/Charan051203/Charan051203/blob/output/github-snake-dark.svg)
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
