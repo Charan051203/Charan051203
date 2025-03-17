@@ -56,7 +56,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,blender,vscode,git,unity,unreal" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" /><br>
     <img src="https://skillicons.dev/icons?i=c,cs,python,mysql,javascript,tensorflow,scikitlearn,pytorch" /><br>
 </div>
 </br>
@@ -77,9 +77,7 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=charan051203&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br/><br/><br/>
 </div>
 <div>
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="190" height="200" />
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180" height="200"/>
 </div>
 <hr/>
 
