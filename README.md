@@ -31,7 +31,7 @@
 
 ⚡ Fun fact **Mario Was Originally a Carpenter, Not a Plumber**
 
-📄 My [Resume](https://drive.google.com/file/d/14YgLH4eUYWNow_RdPjCAo1o4INJhpJpG/view?usp=sharing)
+📄 My [Resume](https://drive.google.com/file/d/1d2oiRV9jlF0zZ_IATNZMEIG4el94sMTQ/view?usp=sharing)
 
 </br>
 </div>
