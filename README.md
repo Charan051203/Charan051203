@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone👋+I'm+CHARAN..;Nice+To+Meet+You+....;Bonjour+👋+I'm+CHARAN..;Nice+To+Meet+You+....;Hola+a+todos+👋+I'm+CHARAN..;Nice+To+Meet+You+....;&center=true" />
 </h1>
 
-<h3 align="center"> Gen AI | Game Development | Data Science | Prompt Engineering | Gaming</h3>
+<h3 align="center"> Gen AI | Machine Learning | Data Science | Prompt Engineering | Gaming</h3>
 
 <div align='center'>
 <img alt="Coding" width="400" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
@@ -31,7 +31,7 @@
 
 ⚡ Fun fact **Mario Was Originally a Carpenter, Not a Plumber**
 
-📄 My [Resume](https://drive.google.com/file/d/1d2oiRV9jlF0zZ_IATNZMEIG4el94sMTQ/view?usp=sharing)
+📄 My [Resume](https://drive.google.com/file/d/1O0eFjCWHqrs6dWTxofy_CgTml8-4bi1r/view?usp=drive_link)
 
 </br>
 </div>
@@ -46,7 +46,7 @@
   <a href="https://instagram.com/chrn_._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>  
-  <a href="" target="_blank">
+  <a href="https://charanrk.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
